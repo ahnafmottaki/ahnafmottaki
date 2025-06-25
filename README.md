@@ -47,10 +47,10 @@ Currently:
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahnafmuttaque&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafmuttaque&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahnafmottaki&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafmottaki&show_icons=true" />
 </p>
 
 <p align="left">
-  ![Ahnaf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahnaf-mottaki&theme=radical)
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafmottaki"/>
 </p>
