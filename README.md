@@ -1,4 +1,4 @@
-![Banner](https://your-image-link.com/banner.png)
+![Banner](./banner.png)
 
 # Ahnaf Mottaki
 ### Full Stack Web Developer | JavaScript Enthusiast
