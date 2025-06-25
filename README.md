@@ -52,5 +52,5 @@ Currently:
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafmuttaque" />
+  ![Ahnaf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahnaf-mottaki&theme=radical)
 </p>
