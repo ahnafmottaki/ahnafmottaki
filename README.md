@@ -47,10 +47,10 @@ Currently:
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahnafmottaki&show_icons=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafmottaki&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahnafmottaki&show_icons=true" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafmottaki"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=ahnafmottaki"/>
 </p>
