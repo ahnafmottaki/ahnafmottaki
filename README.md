@@ -45,13 +45,10 @@ Currently:
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahnafmuttaque&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafmuttaque&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafmuttaque&layout=compact&theme=tokyonight" />
 </p>
