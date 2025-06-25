@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahnaf Mottaki</h1>
+<h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 <!--
 **FreeCodeJunction/FreeCodeJunction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
