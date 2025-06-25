@@ -37,7 +37,7 @@ Currently:
 ---
 
 ## 🌐 Connect With Me
-
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com)
 - [LinkedIn](https://www.linkedin.com/in/your-profile/)
 - [GitHub](https://github.com/yourusername)
 - [Twitter](https://twitter.com/yourhandle)
