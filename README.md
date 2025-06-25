@@ -45,7 +45,7 @@ Currently:
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahnafmuttaque&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahnafmuttaque&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafmuttaque&theme=tokyonight" />
 </p>
 
