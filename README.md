@@ -49,9 +49,9 @@ Currently:
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahnafmuttaque&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafmuttaque&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafmuttaque&show_icons=true" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafmuttaque&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafmuttaque&show_icons=true" />
 </p>
