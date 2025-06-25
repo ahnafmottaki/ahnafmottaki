@@ -52,5 +52,6 @@ Currently:
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=ahnafmottaki"/>
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com?user=ahnafmottaki&theme=radical"/>
 </p>
+
