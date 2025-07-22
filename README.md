@@ -1,7 +1,7 @@
 ![Banner](./github-banner.png)
 
 # Ahnaf Mottaki
-### Full Stack Web Developer | JavaScript Enthusiast
+### Mern Stack Developer | JavaScript Enthusiast
 
 ---
 
